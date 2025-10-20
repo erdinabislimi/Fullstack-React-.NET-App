@@ -1,0 +1,40 @@
+/*Perfshihen pjesa e dizajnit te crudave */
+
+.edit-button {
+  background-color: #b5c0d0 !important;
+  border-color: #b5c0d0 !important;
+  color: white !important;
+}
+
+.delete-button {
+  background-color: #8e3e63 !important;
+  border-color: #8e3e63 !important;
+  color: white !important;
+}
+
+.edit-button:hover,
+.edit-button:active,
+.edit-button:focus {
+  background-color: #b5c0d0 !important;
+  border-color: #b5c0d0 !important;
+}
+
+.delete-button:hover,
+.delete-button:active,
+.delete-button:focus {
+  background-color: #762b47 !important;
+  border-color: #762b47 !important;
+}
+
+.other-button {
+  background-color: #643843 !important;
+  border-color: #643843 !important;
+  color: white !important;
+}
+
+.other-button:hover,
+.other-button:active,
+.other-button:focus {
+  background-color: #643843 !important;
+  border-color: #643843 !important;
+}
